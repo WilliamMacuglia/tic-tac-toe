@@ -1,0 +1,18 @@
+.button {
+    border-radius: 4px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    background-color: rgb(186, 221, 235);
+    
+}
+
+.list {
+    list-style: none;
+}
+
+.text {
+    font-size: 18px;
+    color: rgb(244, 233, 255);
+    background-color: navy;
+    width: 115px;
+}
